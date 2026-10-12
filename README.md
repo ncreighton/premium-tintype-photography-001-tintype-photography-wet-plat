@@ -1,0 +1,2 @@
+# premium-tintype-photography-001-tintype-photography-wet-plat
+Stop losing track of your chemical batches, exposure logs, and plate inventory in a chaotic tintype studio—bring order to your wet plate collodion workflow with a single Notion template.  This template eliminates the guesswork and clutter by centralizing every step of your tintype process: from mixing collodion to cataloging finished plates. It’s t
